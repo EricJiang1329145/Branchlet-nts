@@ -5,8 +5,8 @@
   "children": [
     {
       "id": "2",
-      "title": "子笔记1",
-      "content": "这是子笔记的内容，大概就是这样吧，对的。",
+      "title": "1",
+      "content": "这是子笔记的内容123123123",
       "children": [],
       "expanded": true
     }
