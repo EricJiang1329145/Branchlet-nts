@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "title": "我的笔记",
+  "content": "这是我的第一个笔记",
+  "children": [
+    {
+      "id": "2",
+      "title": "子笔记1",
+      "content": "这是子笔记的内容",
+      "children": [],
+      "expanded": true
+    }
+  ],
+  "expanded": true
+}
