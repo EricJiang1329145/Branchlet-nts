@@ -7,8 +7,16 @@
       "id": "2",
       "title": "1",
       "content": "这是子笔记的内容123123123",
-      "children": [],
-      "expanded": false
+      "children": [
+        {
+          "id": "1755275076332",
+          "title": "新笔记",
+          "content": "请输入笔记内容·1",
+          "children": [],
+          "expanded": true
+        }
+      ],
+      "expanded": true
     }
   ],
   "expanded": true
