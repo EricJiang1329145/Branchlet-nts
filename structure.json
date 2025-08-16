@@ -1,6 +1,29 @@
 {
   "root": {
     "parentId": null,
+    "childIds": [
+      "b617d768-99fc-408a-afe3-bf241783a220",
+      "737bf951-fcf2-412b-ae4a-b4fa12b08d63"
+    ]
+  },
+  "b617d768-99fc-408a-afe3-bf241783a220": {
+    "parentId": "root",
+    "childIds": [
+      "5fcb1f77-efdb-434c-897d-2077c366e1e7"
+    ]
+  },
+  "5fcb1f77-efdb-434c-897d-2077c366e1e7": {
+    "parentId": "b617d768-99fc-408a-afe3-bf241783a220",
+    "childIds": [
+      "29311d65-298c-46db-adb4-a754fa992306"
+    ]
+  },
+  "29311d65-298c-46db-adb4-a754fa992306": {
+    "parentId": "5fcb1f77-efdb-434c-897d-2077c366e1e7",
+    "childIds": []
+  },
+  "737bf951-fcf2-412b-ae4a-b4fa12b08d63": {
+    "parentId": "root",
     "childIds": []
   }
 }
