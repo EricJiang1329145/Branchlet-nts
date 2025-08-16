@@ -1,6 +1,12 @@
 {
   "root": {
     "parentId": null,
+    "childIds": [
+      "75b22e72-949a-4251-b7a8-e37592fd00aa"
+    ]
+  },
+  "75b22e72-949a-4251-b7a8-e37592fd00aa": {
+    "parentId": "root",
     "childIds": []
   }
 }
